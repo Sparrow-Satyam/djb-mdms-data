@@ -2,9 +2,9 @@
   "tenantId": "dl",
   "moduleName": "tenant",
   "tenants": [{
-      "code": "dl.citya",
+      "code": "dl.djb",
       "name": "New Delhi",
-      "description": "City A",
+      "description": "Delhi Jal Board",
       "pincode": [143001,143002,143003,143004,143005],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
@@ -13,17 +13,17 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "citya@gmail.com",
+      "emailId": "djb@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "isPopular": true,
       "city": {
-        "name": "City A",
+        "name": "Delhi Jal Board",
         "localName": null,
         "districtCode": "CITYA",
         "districtName": null,
-        "districtTenantCode": "dl.citya",
+        "districtTenantCode": "dl.djb",
         "regionName": null,
         "ulbGrade": "Municipal Corporation",
         "longitude": 75.5761829,
@@ -33,7 +33,7 @@
         "code": "1013",
         "ddrName": "DDR A"
       },
-      "address": "City A Municipal Corporation",
+      "address": "Delhi Jal Board",
       "contactNumber": "001-2345876"
     },
     {
