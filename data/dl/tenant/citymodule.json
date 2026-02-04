@@ -226,6 +226,29 @@
           "code": "dl.djb"
         }
       ]
+    },
+    {
+      "module": "WS",
+      "code": "WS",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/WS.png",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "dl.djb"
+        }
+      ]
+    },
+    {
+      "module": "WT",
+      "code": "WT",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "dl.djb"
+        }
+      ]
     }
   ]
 }
