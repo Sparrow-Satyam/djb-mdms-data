@@ -31339,6 +31339,12 @@
       "actionid": 2155,
       "actioncode": "",
       "tenantId": "dl"
+    },
+    {
+      "rolecode": "WT_CEMP",
+      "actionid": 2937,
+      "actioncode": "",
+      "tenantId": "dl"
     }
   ]
 }
